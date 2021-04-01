@@ -1,0 +1,10 @@
+people = {
+    "person1":{
+        "name" : "Francis Igbokwe",
+        "age": 12
+    },
+    "person2":{
+        "name" : "Emmanuel Onyke",
+        "age": 4
+    }
+}
