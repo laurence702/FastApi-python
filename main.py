@@ -21,10 +21,4 @@ def show(id: int):
 def comments(id):
     return {'data': {'1', '2'}}
 
-
-
-
-@app.post('/blog')
-def create_blog(request: Blog):
-    return {'data' : f'new blog created with title as  {request.title}'}
  
